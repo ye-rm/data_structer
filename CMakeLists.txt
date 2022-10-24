@@ -3,4 +3,4 @@ project(data_structer C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(data_structer main.c)
+add_executable(data_structer binary_tree.c binary_tree.h)
